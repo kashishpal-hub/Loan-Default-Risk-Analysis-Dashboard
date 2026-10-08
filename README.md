@@ -1,4 +1,3 @@
-<img width="3811" height="2160" alt="1000128863" src="https://github.com/user-attachments/assets/16028bac-893d-4a21-8543-92e001404692" />
 # Loan Default Risk Analysis Dashboard
 
 ## Project Overview
@@ -37,7 +36,7 @@ The analysis was performed using **Excel, SQL, and Power BI**.
 
 The Power BI dashboard provides an interactive view of loan performance, default rates, customer risk, and other key metrics.
 
-
+<img width="3811" height="2160" alt="1000128863" src="https://github.com/user-attachments/assets/16028bac-893d-4a21-8543-92e001404692" />
 
 ## Files
 
